@@ -30,7 +30,7 @@ while True:
         animalDAO.cadastrar_animal()
 
     elif opcao == "3":
-        pass
+        animalDAO.alterar_animal()
 
     elif opcao == "4":
         pass
